@@ -1,5 +1,5 @@
 body {
-background-color:rgb(47, 54, 88);
+background-color:rgb(187, 93, 117);
 font-family: 'Lemonada', cursive;
 }   
 
@@ -8,4 +8,6 @@ font-family: 'Lemonada', cursive;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 10px;
 }
-
+.row{
+    background-color: aquamarine
+}
